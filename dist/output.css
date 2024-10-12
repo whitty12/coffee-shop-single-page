@@ -174,6 +174,7 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  font-family: "Lora", serif;
 }
 
 /*
@@ -212,6 +213,7 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
+  font-family: "Lora", serif;
 }
 
 /*
