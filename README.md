@@ -5,14 +5,14 @@ Notes for website so far:
 IT WILL NOT RUN ON EXPRESS CURRENTLY. I need to fix the pathing. In order to run, I learned about several plugins and the format can currently be checked using Live Server. Do not attempt to run on Localhost 5000 or it WILL throw an error.
 
 Notes to run the service:
-    - You can use the command: npx tailwindcss -i ./public/css/input.css -o ./dist/output.css --watch creates output.css
-    - You can use the command: npx tailwindcss -i ./public/css/input.css -o ./dist/styles.css --watch to run a different stlyesheet name
-    - Install Live Server plugin
+- You can use the command: npx tailwindcss -i ./public/css/input.css -o ./dist/output.css --watch creates output.css
+- You can use the command: npx tailwindcss -i ./public/css/input.css -o ./dist/styles.css --watch to run a different stlyesheet named styles.css
+- Install Live Server plugin
 
 
 To actually start the preview use: "npm run dev" then select Run Live Server.
 
 Observations while coding for personal improvement:
-    - VS Code has a tendency to corrupt file paths.
-    - When inserting a background image, do not put the margins on the section divider or the div, use padding to avoid large white margins.
-    - Inserting CSS into the output.css file will overwrite
+- VS Code has a tendency to corrupt file paths.
+- When inserting a background image, do not put the margins on the section divider or the div, use padding to avoid large white margins.
+- Inserting custom CSS into the output.css file will overwrite
