@@ -11,3 +11,8 @@ Notes to run the service:
 
 
 To actually start the preview use: "npm run dev" then select Run Live Server.
+
+Observations while coding for personal improvement:
+    - VS Code has a tendency to corrupt file paths.
+    - When inserting a background image, do not put the margins on the section divider or the div, use padding to avoid large white margins.
+    - Inserting CSS into the output.css file will overwrite
