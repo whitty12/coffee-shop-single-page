@@ -25,3 +25,11 @@ Implementation Requirements:
 - The only other view will be the account page
 - Users should be able to view menu items
 - Menu items should dynamically update from a database of items
+
+Problems I encountered:
+- Tailwind did not want to configure italics or a border nor did column-row functionality work. It seemed like the classes were only being used part of the time and only in places where I had copied the git repository from my desktop onto my laptop. In other words, added code on my laptop did not have functionality.
+    + Attempts at a solution:
+        - Stackoverflow suggested setting tailwind to "border border-solid". This had no effect.
+        - I copied solutions for creating a card both off of Material UI's website and Tailwind CSS's website. This also had no effect. - I suspected a missing closing tab. This was also not the problem.
+    + Most likely issue:
+        - Node.js appears to have been uninstalled from this laptop as using the commands node -v and npm cli to attempt reinstallation of all packages resultes in a command not found. Solution is like re-installing node.

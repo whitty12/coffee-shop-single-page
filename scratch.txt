@@ -1,0 +1,133 @@
+<div id="caramel-cloud-latte">
+              <h3 class="font-semibold">Caramel Cloud Latte</h3>
+              <img/>
+              <p>A dreamy latte featuring espresso swirled with smooth caramel sauce and creamy milk, finished with a cloud of foam and a drizzle of caramel.</p>
+              <p>4.75</p>
+            </div>
+            <div id="berry-bliss">
+              <h3 class="font-semibold">Berry Bliss Nitro Brew</h3>
+              <img/>
+              <p class="text-wrap">Indulge in a luxurious blend of rich espresso, velvety dark chocolate, and steamed milk, topped with a sprinkle of cocoa and a dollop of whipped cream. Perfect for those who crave a little extra sweetness in their day.</p>
+              <p class="text-pretty itali">6.00</p>
+            </div>
+          </article>
+          <article id = "coffees">
+            <div id="card">
+              <h3 class="font-semibold">Iced Coffee</h3>
+            </div>
+            <div id="card">
+              <h3 class="font-semibold">French Press</h3>
+            </div>
+            <div id="card">
+              <h3 class="font-semibold">Espresso</h3>
+            </div>
+            <div id="card">
+              <h3 class="font-semibold">Americano</h3>
+            </div>
+            <div id="card">
+              <h3 class="font-semibold">Macchiato</h3>
+            </div>
+            <div id="card">
+              <h3 class="font-semibold">Cappuccino</h3>
+            </div>
+            <div id="card">
+              <h3 class="font-semibold">Latte</h3>
+            </div>
+          </article>
+<!--<img class=""w-full" src ="https://images.pexels.com/photos/18281881/pexels-photo-18281881/free-photo-of-coffee-with-ice.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/> -->
+
+
+MENU ITEM TEXT:
+1. Velvet Mocha Bliss
+Indulge in a luxurious blend of rich espresso, velvety dark chocolate, and steamed milk, topped with a sprinkle of cocoa and a dollop of whipped cream. Perfect for those who crave a little extra sweetness in their day.
+
+2. Caramel Cloud Latte
+This dreamy latte features espresso swirled with smooth caramel sauce and creamy milk, finished with a cloud of foam and a drizzle of caramel on top. A delightful treat that’s as comforting as a warm hug!
+
+3. Spiced Pumpkin Chai
+A seasonal favorite, our Spiced Pumpkin Chai combines robust chai tea with espresso, steamed milk, and a hint of pumpkin puree. Topped with cinnamon and nutmeg, it’s the perfect drink for crisp autumn days.
+
+4. Coconut Cold Brew Splash
+Beat the heat with our refreshing Coconut Cold Brew! Smooth cold brew coffee is infused with creamy coconut milk and a hint of vanilla, served over ice and garnished with toasted coconut flakes. A tropical escape in every sip!
+
+5. Matcha Mint Magic
+This vibrant drink blends ceremonial-grade matcha with fresh mint and steamed almond milk, creating a refreshing and energizing experience. Topped with a sprinkle of matcha powder, it’s a perfect pick-me-up for any time of day.
+
+6. Berry Bliss Nitro Brew
+Experience the fruity explosion of our Berry Bliss Nitro Brew! Infused with berry puree and served cold, this nitrogen-infused coffee is creamy and effervescent, making it a unique choice for coffee lovers looking for something different.
+
+7. Hazelnut Dream Espresso
+Dive into the rich, nutty flavor of our Hazelnut Dream Espresso. A double shot of espresso is combined with steamed milk and hazelnut syrup, finished with a sprinkle of crushed hazelnuts for added texture. A nutty delight!
+
+8. Lavender Latte Love
+Savor the floral notes of our Lavender Latte, where creamy steamed milk meets espresso and a hint of lavender syrup. Topped with a delicate lavender sprig, it’s a soothing drink that’s perfect for relaxation.
+
+Feel free to mix and match elements or let me know if you need more drinks or specific themes!
+
+
+
+You said:
+could you add some fake prices on to them?
+ChatGPT said:
+ChatGPT
+Absolutely! Here are the signature coffee drinks with some fake prices added:
+
+1. Velvet Mocha Bliss
+$5.25
+Indulge in a luxurious blend of rich espresso, velvety dark chocolate, and steamed milk, topped with a sprinkle of cocoa and a dollop of whipped cream.
+
+2. Caramel Cloud Latte
+$4.75
+A dreamy latte featuring espresso swirled with smooth caramel sauce and creamy milk, finished with a cloud of foam and a drizzle of caramel.
+
+3. Spiced Pumpkin Chai
+$5.50
+This seasonal favorite combines robust chai tea with espresso, steamed milk, and pumpkin puree, topped with cinnamon and nutmeg.
+
+4. Coconut Cold Brew Splash
+$4.95
+Smooth cold brew coffee infused with creamy coconut milk and a hint of vanilla, served over ice and garnished with toasted coconut flakes.
+
+5. Matcha Mint Magic
+$5.75
+A vibrant blend of ceremonial-grade matcha with fresh mint and steamed almond milk, topped with a sprinkle of matcha powder.
+
+6. Berry Bliss Nitro Brew
+$6.00
+Experience the fruity explosion of our nitro brew infused with berry puree, served cold and creamy for a unique coffee experience.
+
+7. Hazelnut Dream Espresso
+$4.50
+A double shot of espresso combined with steamed milk and hazelnut syrup, finished with crushed hazelnuts for added texture.
+
+8. Lavender Latte Love
+$5.25
+Savor the floral notes of our Lavender Latte, where creamy steamed milk meets espresso and lavender syrup, topped with a delicate lavender sprig.
+
+Let me know if you need anything else!
+
+
+
+You said:
+would you make some pictures for them?
+ChatGPT said:
+ChatGPT
+I can't create pictures, but I can suggest some ideas for how the drinks could be visually represented! Here’s how you might style the photos for each drink:
+
+1. Velvet Mocha Bliss
+Image Idea: A close-up of the mocha in a clear glass, showing layers of chocolate and cream, with cocoa powder art on top.
+2. Caramel Cloud Latte
+Image Idea: A latte in a tall, frosted glass with caramel drizzle art, surrounded by a cozy café setting.
+3. Spiced Pumpkin Chai
+Image Idea: A warm mug with a frothy top sprinkled with cinnamon and nutmeg, next to a small pumpkin and autumn leaves.
+4. Coconut Cold Brew Splash
+Image Idea: A clear glass filled with ice and cold brew, topped with coconut flakes, set against a tropical background.
+5. Matcha Mint Magic
+Image Idea: A vibrant green latte in a ceramic cup, garnished with fresh mint leaves, on a wooden table.
+6. Berry Bliss Nitro Brew
+Image Idea: A tall glass showcasing the bubbly texture of the nitro brew, with a berry garnish and a fun straw.
+7. Hazelnut Dream Espresso
+Image Idea: A rustic mug filled with espresso, drizzled with hazelnut syrup, and topped with crushed hazelnuts on a wooden surface.
+8. Lavender Latte Love
+Image Idea: A delicate cup with lavender sprigs on the side, against a pastel background, emphasizing the floral aspect.
+If you need tips on how to take these photos or design them, just let me know!
