@@ -74,6 +74,35 @@
     </div>
   </nav>
 
+  <!--Creating a menu modal! This modal (eventually) load menu items based on what is clicked. For now, have it open one item. It should start hidden and then when the user clicks on an item, it will open the modal and load from a database.-->
+  <div class="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center hidden">
+    <!--Modal information-->
+    <!--TODO: Add JS that gets the name of the menu item being clicked-->
+    <div class="bg-white rounded-lg p-6 w-1/3">
+      <h2 class="text-xl mb-4">Item Name</h2>
+      <img class="w-1/3 h-1/3" src="https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg" style="background-repeat:no-repeat;background-size: cover;">
+      <p class="mb-3" id="description">Indulge in a luxurious blend of rich espresso, velvety dark chocolate, and steamed milk, topped with a sprinkle of cocoa and a dollop of whipped cream. Perfect for those who crave a little extra sweetness in their day</p>
+      <p class="mb-3" id="price">Price</p>
+      <p class="mb-3" id="size">Sizes</p>
+      <button class="bg-blue-500 text-white px-4 py-2 rounded">Add to Order</button>
+      <button class="bg-blue-500 text-white px-4 py-2 rounded">Cancel</button>
+    </div> 
+  </div>
+
+  <div class="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center hidden">
+    <!--Modal information-->
+    <!--TODO: Add JS that checks username and closes the modal and stuff-->
+    <div class="bg-white rounded-lg p-6 w-1/3">
+      <h2 class="text-xl mb-4">Login</h2>
+      <img class="w-1/3 h-1/3" src="https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg" style="background-repeat:no-repeat;background-size: cover;">
+      <p class="mb-3" id="description">Indulge in a luxurious blend of rich espresso, velvety dark chocolate, and steamed milk, topped with a sprinkle of cocoa and a dollop of whipped cream. Perfect for those who crave a little extra sweetness in their day</p>
+      <p class="mb-3" id="price">Price</p>
+      <p class="mb-3" id="size">Sizes</p>
+      <button class="bg-blue-500 text-white px-4 py-2 rounded">Add to Order</button>
+      <button class="bg-blue-500 text-white px-4 py-2 rounded">Cancel</button>
+    </div> 
+  </div>
+
 </header>
 
 <!--the generic body tag will encompass the entire part between the header and footer-->
@@ -148,15 +177,15 @@
     <article class="grid grid-cols-4" id = "coffees">
       <div class="my-10 mx-2 max-w-lg bg-white shadow-lg border border-black" id="card">
         <h3 class="font-semibold text-lg p-4">Iced Coffee</h3>
-        <p class="my-3 p-4 font-bold">Price: $5.25</p>
+        <p class="my-3 p-4 font-bold">Price: $2.50</p>
       </div>
       <div class="my-10 mx-2 max-w-lg bg-white shadow-lg border border-black" id="card">
         <h3 class="font-semibold text-lg p-4">French Press</h3>
-        <p class="my-3 p-4 font-bold">Price: $5.25</p>
+        <p class="my-3 p-4 font-bold">Price: $4.25</p>
       </div>
       <div class="my-10 mx-2 max-w-lg bg-white shadow-lg border border-black" id="card">
         <h3 class="font-semibold text-lg p-4">Espresso</h3>
-        <p class="my-3 p-4 font-bold">Price: $5.25</p>
+        <p class="my-3 p-4 font-bold">Price: $5.00</p>
       </div>
       <div class="my-10 mx-2 max-w-lg bg-white shadow-lg border border-black" id="card">
         <h3 class="font-semibold text-lg p-4">Americano</h3>
