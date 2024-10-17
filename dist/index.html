@@ -23,36 +23,38 @@
   <!-- TODO: Add icons! and fix alignment later-->
   <nav class="w-full px-4 py-2 mx-auto text-white bg-slate-900 shadow-md lg:px-8 lg:py-3">
     <div class="container flex flex-wrap items-center justify-between text-gray-100">
-      <a href="#" class="mr-4 block cursor-pointer py-1.5 text-base text-gray-200 font-semibold">
+      <a href="#home" class="mr-4 block cursor-pointer py-1.5 text-base text-gray-200 font-semibold">
         Palm Beach Coffee
       </a>
       <div class="hidden lg:block">
         <ul class="flex flex-col gap-2 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
           <li class="flex items-center p-1 text-sm gap-x-2 text-gray-200">
-            <a href="#" class="flex items-center">
+            <a href="#menu" class="flex items-center">
               Menu
             </a>
           </li>
           <li class="flex items-center p-1 text-sm gap-x-2 text-gray-200">
-            <a href="#" class="flex items-center">
+            <a href="#menu" class="flex items-center">
               Products
             </a>
           </li>
           <li class="flex items-center p-1 text-sm gap-x-2 text-gray-200">
-            <a href="#" class="flex items-center">
+            <a href="#about" class="flex items-center">
               About
             </a>
           </li>
           <li class="flex items-center p-1 text-sm gap-x-2 text-gray-200">
-            <a href="#" class="flex items-center">
+            <a href="#support" class="flex items-center">
               Support
             </a>
           </li>
+          <!--Add a rewards section-->
           <li class="flex items-center p-1 text-sm gap-x-2 text-gray-200">
             <a href="#" class="flex-items-cent">
               Rewards
             </a>
           </li>
+          <!--TODO: Add log in mockup-->
           <li class="flex items-center p-1 text-sm gap-x-2 text-gray-200">
             <a href="#" class="flex-items-cent">
               Login
@@ -81,7 +83,7 @@
   <main>
   <!--Tags are named by sections, each section css is defined in index.css-->
   <!--s1 displays the initial splash page container-->
-  <section class="w-full splash text-center">
+  <section class="w-full splash text-center" id="home">
     <!-- Add this link to the background and adjust the height between the margins -->
     <div class="py-96 px-0"
       style="background-image: url(https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg);background-repeat:no-repeat;background-size:cover;">
@@ -93,7 +95,7 @@
     </div>
   </section>
   <!--s2 displays the about container-->
-  <section>
+  <section id="about">
     <!--TODO: Expand the section to be more spaced out, add a link to jump down to this section in the navbar, make sure the paragraph is smooth and readable, maybe add a picture-->
     <div class="bg-slate-700 text-center text-slate-300">
       <h2 class="py-5 text-center font-bold text-xl"> Serving Our Community Since 2024</h2>
@@ -116,7 +118,7 @@
   </section>
   <!--s3 displays the menu container-->
   <!--TODO: Make all sections responsive to different screan sizes!-->
-  <section>
+  <section id="menu">
     <h2 class="text-center font-bold text-2xl my-8">Signature Blends</h2>
     <div class="flex" id="featured">
       <!--TODO: Add pictures and make them equal sizes-->
@@ -176,7 +178,7 @@
    </div>
   </section>
   <!--s4 is contact container-->
-  <section>
+  <section id="support">
     <div class="bg-slate-700 text-center text-slate-300">
       <h2 class="pt-5 pb-2 text-center font-bold text-2xl">Tell us how we did!</h2>
       <p class="pb-8">Questions? Concerns? Fill out your contact info below or message us on our socials. Your feedback means everything to us!</p>
@@ -201,7 +203,7 @@
 
 <footer>
   <div class="w-full px-4 py-2 mx-auto text-white bg-slate-900 shadow-md lg:px-8 lg:py-3 text-center">
-    <p>Copyright Palm Beach Coffee, inc.</p>
+    <p>Copyright Palm Beach Coffee, Inc.</p>
   </div>
 </footer>
 
